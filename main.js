@@ -3,6 +3,7 @@ const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
 const errorModal = document.querySelector("#modal")
+errorModal.classList.add('hidden')
 // errorModal.classList.add('hidden')
 // Your JavaScript code goes here!
 
